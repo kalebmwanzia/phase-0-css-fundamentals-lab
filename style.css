@@ -3,3 +3,18 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{color: red;
+}
+img{margin-left: auto;
+  margin-right: auto;
+  display: block;}
+nav{text-align: center;
+  padding: 10px;
+  background-color: 
+    aquamarine;}
+p#featured-property{width: 800px;
+  text-align: center;
+  text-indent: 50%;}
+div{float: left;
+  width: 20%;
+  background-color: aqua;}
